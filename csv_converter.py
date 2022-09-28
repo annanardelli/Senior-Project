@@ -30,8 +30,10 @@ ac_caf = "ACETAMINOPHEN; BUTALBITAL; CAFFEINE;".encode()
 ac_caf_edited = "ACETAMINOPHEN/BUTALBITAL/CAFFEINE/".encode()
 asp = "ASPIRIN; BUTALBITAL; CAFFEINE; CODEINE PHOSPHATE".encode()
 asp_edited = "ASPIRIN/BUTALBITAL/CAFFEINE/CODEINE PHOSPHATE".encode()
-capsule_oral = "CAPSULE;ORAL".encode()
-capsule_oral_edited = "CAPSULE:ORAL".encode()
+cream_vaginal = "CREAM;TOPICAL, VAGINAL".encode()
+cream_vaginal_edited = "CREAM;TOPICAL:VAGINAL".encode()
+percent = "%;".encode()
+percent_edited = "%/".encode()
 
 #opening txt file and replacing strings
 with open(file_name, "rb") as file:
@@ -46,12 +48,15 @@ with open(file_name, "rb") as file:
     data = data.replace(cap_ex, cap_ex_edited)
     data = data.replace(besy, besy_edited)
     data = data.replace(ac, ac_edited)
+    data = data.replace(percent, percent_edited)
     data = data.replace(ac_caf, ac_caf_edited)
-    data = data.replace(capsule_oral, capsule_oral_edited)
     data = data.replace(asp, asp_edited)
+    data = data.replace(cream_vaginal, cream_vaginal_edited)
     data = data.replace(double_tilde, none)
     data = data.replace(tilde, comma_space)
     data = data.replace(semicolon, comma_space)
+
+
 
 #creating a new file for the edited version
 edited_file = "products_edited.txt"
