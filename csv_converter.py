@@ -1,3 +1,4 @@
+import pandas
 import pandas as pd
 
 file_name = "products.txt"
@@ -177,3 +178,10 @@ with open(edited_file, "wb") as file:
 #converting to csv
 read_file = pd.read_csv(edited_file)
 read_file.to_csv("products.csv", index=None)
+
+selcols = [' appNo', 'activeIngredient', ' proprietaryName', ' dosageForm', ' route', ' RLD', ' RS']
+
+print(read_file.columns)
+df=pandas.read_csv("products.csv", usecols=selcols)
+
+df.to_csv("FDAListProducts.csv", index=None, columns=[' appNo', 'activeIngredient', ' proprietaryName', ' dosageForm', ' route', ' RLD', ' RS'])
