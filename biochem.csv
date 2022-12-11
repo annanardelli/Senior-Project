@@ -1,0 +1,983 @@
+1,ABACAVIR SULFATE; DOLUTEGRAVIR SODIUM; LAMIVUDINE,https://go.drugbank.com/drugs/DB01048
+4,ABALOPARATIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ABALOPARATIDE&search_type=drugs&button=
+5,ABAMETAPIR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Abametapir&search_type=drugs&button=
+6,ABEMACICLIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=abemaciclib&search_type=drugs&button=
+9,ACALABRUTINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ACALABRUTINIB&search_type=drugs&button=
+12,ACEBUTOLOL HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00772&search_type=drugs&button=
+15,ACETAMINOPHEN; BUTALBITAL,https://go.drugbank.com/drugs/DB00316
+16,ACETAMINOPHEN; BUTALBITAL; CAFFEINE,https://go.drugbank.com/drugs/DB00241
+17,ACETAMINOPHEN; BUTALBITAL; CAFFEINE; CODEINE PHOSPHATE,https://go.drugbank.com/drugs/DB00201
+18,ACETAMINOPHEN; CAFFEINE; DIHYDROCODEINE BITARTRATE,https://go.drugbank.com/drugs/DB00318
+19,ACETAMINOPHEN; CODEINE PHOSPHATE,https://go.drugbank.com/drugs/DB00316
+20,ACETAMINOPHEN; HYDROCODONE BITARTRATE,https://go.drugbank.com/drugs/DB00956
+22,ACETAMINOPHEN; OXYCODONE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00497
+24,ACETAMINOPHEN; PROPOXYPHENE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00647
+28,ACETAZOLAMIDE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00119&search_type=drugs&button=
+29,"ACETIC ACID, GLACIAL",https://go.drugbank.com/drugs/DB03166
+30,ACETOHYDROXAMIC ACID,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00774&search_type=drugs&button=
+31,ACETYLCHOLINE CHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ACETYLCHOLINE+CHLORIDE&search_type=drugs&button=
+33,ACETYLDIGITOXIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ACETYLDIGITOXIN&search_type=drugs&button=
+34,ACITRETIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00778&search_type=drugs&button=
+36,ACLIDINIUM BROMIDE; FORMOTEROL FUMARATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00641&search_type=drugs&button=
+37,ACRIVASTINE; PSEUDOEPHEDRINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00634&search_type=drugs&button=
+39,ACYCLOVIR SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00567&search_type=drugs&button=
+40,ACYCLOVIR; HYDROCORTISONE,https://go.drugbank.com/drugs/DB00787
+53,ALCLOMETASONE DIPROPIONATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00783&search_type=drugs&button=
+56,ALECTINIB HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ALECTINIB+HYDROCHLORIDE&search_type=drugs&button=
+59,ALFENTANIL HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00726&search_type=drugs&button=
+61,ALISKIREN HEMIFUMARATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ALISKIREN+HEMIFUMARATE&search_type=drugs&button=
+63,ALITRETINOIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00017&search_type=drugs&button=
+68,ALOGLIPTIN BENZOATE; PIOGLITAZONE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00653&search_type=drugs&button=
+73,ALUMINUM HYDROXIDE; MAGNESIUM TRISILICATE,https://go.drugbank.com/drugs/DB06723
+74,ALVIMOPAN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ALVIMOPAN&search_type=drugs&button=
+75,AMANTADINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00787&search_type=drugs&button=
+77,AMCINONIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00788&search_type=drugs&button=
+78,AMIFAMPRIDINE PHOSPHATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=amifampridine+phosphate&search_type=drugs&button=
+80,AMIKACIN SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00550&search_type=drugs&button=
+83,AMINO ACIDS,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=MENTHOL+AND+METHYL+SALICYLATE&search_type=drugs&button=
+84,AMINOCAPROIC ACID,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00791&search_type=drugs&button=
+85,AMINOLEVULINIC ACID HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00793&search_type=drugs&button=
+86,AMINOPHYLLINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=AMINOPHYLLINE+DIHYDRATE&search_type=drugs&button=
+87,AMINOSALICYLIC ACID,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00749&search_type=drugs&button=
+88,AMIODARONE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00288&search_type=drugs&button=
+89,AMISULPRIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Amisulpride&search_type=drugs&button=
+90,AMITRIPTYLINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00227&search_type=drugs&button=
+92,AMITRIPTYLINE HYDROCHLORIDE; PERPHENAZINE,https://go.drugbank.com/drugs/DB00321
+93,AMLODIPINE BENZOATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00520&search_type=drugs&button=
+96,AMLODIPINE BESYLATE; BENAZEPRIL HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00520&search_type=drugs&button=
+100,AMLODIPINE BESYLATE; PERINDOPRIL ARGININE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00520&search_type=drugs&button=
+103,AMMONIUM CHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00450&search_type=drugs&button=
+104,AMMONIUM LACTATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=AMMONIUM+LACTATE&search_type=drugs&button=
+106,AMOXICILLIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00248&search_type=drugs&button=
+107,AMOXICILLIN; CLARITHROMYCIN; LANSOPRAZOLE,https://go.drugbank.com/drugs/DB01211
+108,AMOXICILLIN; CLARITHROMYCIN; OMEPRAZOLE,https://go.drugbank.com/drugs/DB00338
+109,AMOXICILLIN; CLARITHROMYCIN; VONOPRAZAN FUMARATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00181&search_type=drugs&button=
+110,AMOXICILLIN; CLAVULANATE POTASSIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00248&search_type=drugs&button=
+111,AMOXICILLIN; OMEPRAZOLE MAGNESIUM; RIFABUTIN,https://go.drugbank.com/drugs/DB00615
+112,AMOXICILLIN; VONOPRAZAN FUMARATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00181&search_type=drugs&button=
+116,AMPHOTERICIN B,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00797&search_type=drugs&button=
+119,AMPRENAVIR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00605&search_type=drugs&button=
+120,ANAGRELIDE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00798&search_type=drugs&button=
+122,ANIDULAFUNGIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01301&search_type=drugs&button=
+123,APALUTAMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Apalutamide&search_type=drugs&button=
+125,APOMORPHINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00531&search_type=drugs&button=
+128,APREPITANT,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00100&search_type=drugs&button=
+130,ARGATROBAN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00105&search_type=drugs&button=
+132,ARIPIPRAZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00638&search_type=drugs&button=
+135,ARSENIC TRIOXIDE,https://go.drugbank.com/drugs/DB01169
+137,ARTICAINE HYDROCHLORIDE; EPINEPHRINE BITARTRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00450&search_type=drugs&button=
+138,ASCIMINIB HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ASCIMINIB+HYDROCHLORIDE&search_type=drugs&button=
+141,ASCORBIC ACID; POLYETHYLENE GLYCOL 3350; POTASSIUM CHLORIDE; SODIUM ASCORBATE; SODIUM CHLORIDE; SODIUM SULFATE,https://go.drugbank.com/drugs/DB09287
+144,ASPIRIN,https://go.drugbank.com/drugs/DB01050
+146,ASPIRIN; BUTALBITAL; CAFFEINE,https://go.drugbank.com/drugs/DB00945
+147,ASPIRIN; BUTALBITAL; CAFFEINE; CODEINE PHOSPHATE,https://go.drugbank.com/drugs/DB00241
+149,ASPIRIN; CARISOPRODOL,https://go.drugbank.com/drugs/DB00395
+151,ASPIRIN; HYDROCODONE BITARTRATE,https://go.drugbank.com/drugs/DB00956
+152,ASPIRIN; MEPROBAMATE,https://go.drugbank.com/drugs/DB00371
+153,ASPIRIN; METHOCARBAMOL,https://go.drugbank.com/drugs/DB00423
+155,ATAZANAVIR SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00804&search_type=drugs&button=
+158,ATOGEPANT,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ATOGEPANT&search_type=drugs&button=
+159,ATOMOXETINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00614&search_type=drugs&button=
+163,ATRACURIUM BESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00806&search_type=drugs&button=
+166,ATROPINE SULFATE; DIPHENOXYLATE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00572
+167,ATROPINE SULFATE; EDROPHONIUM CHLORIDE,https://go.drugbank.com/drugs/DB01010
+169,AURANOFIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00808&search_type=drugs&button=
+172,AVAPRITINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=avapritinib&search_type=drugs&button=
+173,AVATROMBOPAG MALEATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=AVATROMBOPAG+MALEATE&search_type=drugs&button=
+174,AVOBENZONE; ECAMSULE; OCTOCRYLENE,https://go.drugbank.com/drugs/DB09495
+175,AVOBENZONE; ECAMSULE; OCTOCRYLENE; TITANIUM DIOXIDE,https://go.drugbank.com/drugs/DB09534
+180,AZATHIOPRINE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00811&search_type=drugs&button=
+185,AZILSARTAN KAMEDOXOMIL; CHLORTHALIDONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00127&search_type=drugs&button=
+186,AZITHROMYCIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=AZITHROMYCIN+DIHYDRATE&search_type=drugs&button=
+187,AZTREONAM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00815&search_type=drugs&button=
+188,BACITRACIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00816&search_type=drugs&button=
+197,BACITRACIN; POLYMYXIN B SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00816&search_type=drugs&button=
+198,BACLOFEN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00551&search_type=drugs&button=
+200,BALSALAZIDE DISODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00141&search_type=drugs&button=
+202,BARIUM SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00563&search_type=drugs&button=
+205,BEDAQUILINE FUMARATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Bedaquiline+Fumarate&search_type=drugs&button=
+207,BELZUTIFAN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=BELZUTIFAN&search_type=drugs&button=
+209,BEMPEDOIC ACID; EZETIMIBE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00619&search_type=drugs&button=
+213,BENDROFLUMETHIAZIDE,https://go.drugbank.com/drugs/DB00436
+214,BENDROFLUMETHIAZIDE; NADOLOL,https://go.drugbank.com/drugs/DB00436
+217,BENZNIDAZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=BENZNIDAZOLE&search_type=drugs&button=
+218,BENZONATATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00629&search_type=drugs&button=
+219,BENZOYL PEROXIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=BENZOYL+PEROXIDE&search_type=drugs&button=
+221,BENZOYL PEROXIDE; ERYTHROMYCIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00953&search_type=drugs&button=
+224,BENZTROPINE MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00748&search_type=drugs&button=
+226,BENZYL BENZOATE,https://go.drugbank.com/drugs/DB00396
+228,BEROTRALSTAT HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Berotralstat+hydrochloride&search_type=drugs&button=
+229,BETA CAROTENE,https://go.drugbank.com/drugs/DB06755
+231,BETAMETHASONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00513&search_type=drugs&button=
+232,BETAMETHASONE ACETATE; BETAMETHASONE SODIUM PHOSPHATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00513&search_type=drugs&button=
+235,BETAMETHASONE DIPROPIONATE; CLOTRIMAZOLE,https://go.drugbank.com/drugs/DB00257
+236,BETAMETHASONE SODIUM PHOSPHATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00513&search_type=drugs&button=
+239,BETAXOLOL HYDROCHLORIDE; PILOCARPINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00195
+241,BEXAROTENE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00114&search_type=drugs&button=
+243,BICTEGRAVIR SODIUM; EMTRICITABINE; TENOFOVIR ALAFENAMIDE FUMARATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00226&search_type=drugs&button=
+244,BIMATOPROST,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00826&search_type=drugs&button=
+245,BINIMETINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=BINIMETINIB&search_type=drugs&button=
+246,BISACODYL; POLYETHYLENE GLYCOL 3350; POTASSIUM CHLORIDE; SODIUM BICARBONATE; SODIUM CHLORIDE,https://go.drugbank.com/drugs/DB09020
+247,BISMUTH SUBCITRATE POTASSIUM; METRONIDAZOLE; TETRACYCLINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00759
+251,BLEOMYCIN SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00453&search_type=drugs&button=
+256,BREXANOLONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=BREXANOLONE&search_type=drugs&button=
+258,BRIGATINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=brigatinib&search_type=drugs&button=
+259,BRILLIANT BLUE G,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=BRILLIANT+BLUE+G&search_type=drugs&button=
+260,BRIMONIDINE TARTRATE,https://go.drugbank.com/drugs/DB00484
+264,BRIVARACETAM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=brivaracetam&search_type=drugs&button=
+266,BROMOCRIPTINE MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00622&search_type=drugs&button=
+267,BROMODIPHENHYDRAMINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00710&search_type=drugs&button=
+268,BROMPHENIRAMINE MALEATE,https://go.drugbank.com/drugs/DB00835
+273,BUDESONIDE; FORMOTEROL FUMARATE; GLYCOPYRROLATE,https://go.drugbank.com/drugs/DB01222
+274,BUMETANIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00294&search_type=drugs&button=
+275,BUPIVACAINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00247&search_type=drugs&button=
+276,BUPIVACAINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00247&search_type=drugs&button=
+277,BUPIVACAINE HYDROCHLORIDE; EPINEPHRINE,https://go.drugbank.com/drugs/DB00668
+278,BUPIVACAINE HYDROCHLORIDE; EPINEPHRINE BITARTRATE,https://go.drugbank.com/drugs/DB00297
+279,BUPIVACAINE HYDROCHLORIDE; LIDOCAINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00297
+280,BUPIVACAINE; MELOXICAM,https://go.drugbank.com/drugs/DB00814
+281,BUPRENORPHINE,https://go.drugbank.com/drugs/DB00921
+282,BUPRENORPHINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00922
+283,BUPRENORPHINE HYDROCHLORIDE; NALOXONE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB01183
+286,BUPROPION HYDROCHLORIDE; DEXTROMETHORPHAN HYDROBROMIDE,https://go.drugbank.com/drugs/DB00514
+288,BUSPIRONE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00222&search_type=drugs&button=
+289,BUSULFAN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00664&search_type=drugs&button=
+290,BUTENAFINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00833&search_type=drugs&button=
+291,BUTOCONAZOLE NITRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00834&search_type=drugs&button=
+292,BUTORPHANOL TARTRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00835&search_type=drugs&button=
+293,CABAZITAXEL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=cabazitaxel&search_type=drugs&button=
+296,CABOTEGRAVIR SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CABOTEGRAVIR+SODIUM&search_type=drugs&button=
+297,CABOTEGRAVIR; RILPIVIRINE,https://go.drugbank.com/drugs/DB08864
+298,CABOZANTINIB S-MALATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=cabozantinib+s-malate&search_type=drugs&button=
+301,CALCIFEDIOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CALCIFEDIOL&search_type=drugs&button=
+303,CALCITONIN HUMAN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00531&search_type=drugs&button=
+304,CALCITONIN SALMON,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CALCITONIN+SALMON&search_type=drugs&button=
+305,CALCITRIOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00246&search_type=drugs&button=
+306,CALCIUM ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00839&search_type=drugs&button=
+308,CALCIUM CHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00840&search_type=drugs&button=
+309,CALCIUM CHLORIDE; DEXTROSE; LACTIC ACID; MAGNESIUM CHLORIDE; POTASSIUM CHLORIDE; SODIUM BICARBONATE; SODIUM CHLORIDE,https://go.drugbank.com/drugs/DB01164
+310,CALCIUM CHLORIDE; DEXTROSE; MAGNESIUM CHLORIDE; POTASSIUM CHLORIDE; SODIUM ACETATE; SODIUM CHLORIDE,https://go.drugbank.com/drugs/DB01165
+311,CALCIUM CHLORIDE; DEXTROSE; MAGNESIUM CHLORIDE; SODIUM ACETATE; SODIUM CHLORIDE,https://go.drugbank.com/drugs/DB01166
+313,CALCIUM CHLORIDE; DEXTROSE; POTASSIUM CHLORIDE; SODIUM ACETATE; SODIUM CHLORIDE,https://go.drugbank.com/drugs/DB00761
+314,CALCIUM CHLORIDE; DEXTROSE; POTASSIUM CHLORIDE; SODIUM CHLORIDE,https://go.drugbank.com/drugs/DB09341
+315,CALCIUM CHLORIDE; DEXTROSE; POTASSIUM CHLORIDE; SODIUM CHLORIDE; SODIUM LACTATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00840&search_type=drugs&button=
+317,CALCIUM CHLORIDE; MAGNESIUM CHLORIDE; POTASSIUM CHLORIDE; SODIUM ACETATE; SODIUM CHLORIDE; SODIUM LACTATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00840&search_type=drugs&button=
+320,CALCIUM CHLORIDE; POTASSIUM CHLORIDE; SODIUM ACETATE; SODIUM CHLORIDE,https://go.drugbank.com/drugs/DB09395
+323,CALCIUM GLUCEPTATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00841&search_type=drugs&button=
+329,CANGRELOR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CANGRELOR&search_type=drugs&button=
+334,CAPTOPRIL; HYDROCHLOROTHIAZIDE,https://go.drugbank.com/drugs/DB01197
+339,CARBIDOPA; LEVODOPA,https://go.drugbank.com/drugs/DB00190
+340,CARBINOXAMINE MALEATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00765&search_type=drugs&button=
+341,CARBOPLATIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00466&search_type=drugs&button=
+342,CARBOPROST TROMETHAMINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00847&search_type=drugs&button=
+343,CARFILZOMIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CARFILZOMIB&search_type=drugs&button=
+345,CARISOPRODOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00417&search_type=drugs&button=
+346,CARMUSTINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00006&search_type=drugs&button=
+351,CASIMERSEN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=casimersen&search_type=drugs&button=
+353,CEDAZURIDINE; DECITABINE,https://go.drugbank.com/drugs/DB15694
+354,CEFACLOR,https://go.drugbank.com/drugs/DB00833
+355,CEFAZOLIN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Cefazolin+Sodium&search_type=drugs&button=
+356,CEFDINIR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00644&search_type=drugs&button=
+358,CEFEPIME HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CEFEPIME+HYDROCHLORIDE&search_type=drugs&button=
+359,CEFIDEROCOL SULFATE TOSYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Cefiderocol+sulfate+tosylate&search_type=drugs&button=
+360,CEFIXIME,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00583&search_type=drugs&button=
+361,CEFOTAXIME SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00854&search_type=drugs&button=
+362,CEFOTETAN DISODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=cefotetan+disodium&search_type=drugs&button=
+363,CEFOXITIN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CEFOXITIN+SODIUM&search_type=drugs&button=
+364,CEFPODOXIME PROXETIL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CEFPODOXIME+PROXETIL&search_type=drugs&button=
+365,CEFPROZIL,https://go.drugbank.com/drugs/DB01150
+366,CEFTAROLINE FOSAMIL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CEFTAROLINE+FOSAMIL&search_type=drugs&button=
+367,CEFTAZIDIME,https://go.drugbank.com/drugs/DB00438
+368,CEFTIBUTEN DIHYDRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Ceftibuten+dihydrate&search_type=drugs&button=
+369,CEFTRIAXONE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00395&search_type=drugs&button=
+370,CEFUROXIME AXETIL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00285&search_type=drugs&button=
+371,CEFUROXIME SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00285&search_type=drugs&button=
+372,CELECOXIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00373&search_type=drugs&button=
+373,CELECOXIB; TRAMADOL HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00482
+374,CENOBAMATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CENOBAMATE&search_type=drugs&button=
+375,CEPHALEXIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00250&search_type=drugs&button=
+376,CEPHAPIRIN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00860&search_type=drugs&button=
+377,CERITINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CERITINIB&search_type=drugs&button=
+378,CETIRIZINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00630&search_type=drugs&button=
+381,CEVIMELINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00224&search_type=drugs&button=
+385,CHLORAMPHENICOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CHLORAMPHENICOL+PALMITATE&search_type=drugs&button=
+386,CHLORAMPHENICOL SODIUM SUCCINATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00862&search_type=drugs&button=
+387,CHLORDIAZEPOXIDE,https://go.drugbank.com/drugs/DB00475
+388,CHLORDIAZEPOXIDE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00475
+389,CHLORDIAZEPOXIDE HYDROCHLORIDE; CLIDINIUM BROMIDE,https://go.drugbank.com/drugs/DB00475
+392,CHLOROPROCAINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00404&search_type=drugs&button=
+395,CHLOROTHIAZIDE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00721&search_type=drugs&button=
+399,CHLORPHENIRAMINE MALEATE; PSEUDOEPHEDRINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB01114
+400,CHLORPHENIRAMINE POLISTIREX; CODEINE POLISTIREX,https://go.drugbank.com/drugs/DB00318
+401,CHLORPHENIRAMINE POLISTIREX; HYDROCODONE POLISTIREX,https://go.drugbank.com/drugs/DB01114
+403,CHLORPROMAZINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00482&search_type=drugs&button=
+407,CHOLIC ACID,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CHOLIC+ACID&search_type=drugs&button=
+410,CHROMIC CHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CHROMIC+CHLORIDE&search_type=drugs&button=
+412,CICLOPIROX,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00871&search_type=drugs&button=
+413,CIDOFOVIR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CIDOFOVIR+ANHYDROUS&search_type=drugs&button=
+417,CIMETIDINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00568&search_type=drugs&button=
+419,CIPROFLOXACIN,https://go.drugbank.com/drugs/DB00537
+425,CISATRACURIUM BESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00874&search_type=drugs&button=
+426,CISPLATIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00359&search_type=drugs&button=
+427,CITALOPRAM HYDROBROMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00147&search_type=drugs&button=
+428,CITRIC ACID; GLUCONOLACTONE; MAGNESIUM CARBONATE,https://go.drugbank.com/drugs/DB04272
+429,CITRIC ACID; LACTIC ACID; POTASSIUM BITARTRATE,https://go.drugbank.com/drugs/DB00936
+430,CITRIC ACID; MAGNESIUM OXIDE; SODIUM PICOSULFATE,https://go.drugbank.com/drugs/DB09268
+431,CLADRIBINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00260&search_type=drugs&button=
+432,CLARITHROMYCIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00181&search_type=drugs&button=
+433,CLASCOTERONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CLASCOTERONE&search_type=drugs&button=
+435,CLEVIDIPINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CLEVIDIPINE&search_type=drugs&button=
+436,CLIDINIUM BROMIDE,https://go.drugbank.com/drugs/DB00771
+437,CLINDAMYCIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00566&search_type=drugs&button=
+438,CLINDAMYCIN PALMITATE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00566&search_type=drugs&button=
+440,CLINDAMYCIN PHOSPHATE; TRETINOIN,https://go.drugbank.com/drugs/DB00755
+441,CLOBAZAM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00307&search_type=drugs&button=
+443,CLOCORTOLONE PIVALATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00877&search_type=drugs&button=
+446,CLOMIPRAMINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00253&search_type=drugs&button=
+449,CLONIDINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00174&search_type=drugs&button=
+451,CLORAZEPATE DIPOTASSIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Clorazepate+Dipotassium&search_type=drugs&button=
+452,CLOTRIMAZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00244&search_type=drugs&button=
+453,CLOXACILLIN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00882&search_type=drugs&button=
+457,COBIMETINIB FUMARATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=COBIMETINIB+FUMARATE&search_type=drugs&button=
+461,CODEINE PHOSPHATE; PSEUDOEPHEDRINE HYDROCHLORIDE; TRIPROLIDINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00318
+463,COLCHICINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=COLCHICINE&search_type=drugs&button=
+466,COLESTIPOL HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00884&search_type=drugs&button=
+467,COLISTIMETHATE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00885&search_type=drugs&button=
+470,CONIVAPTAN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01302&search_type=drugs&button=
+472,CORTICOTROPIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CORTICOTROPIN&search_type=drugs&button=
+473,CORTISONE ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Cortisone+Acetate&search_type=drugs&button=
+474,COSYNTROPIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=COSYNTROPIN&search_type=drugs&button=
+476,CRIZOTINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CRIZOTINIB&search_type=drugs&button=
+479,CROTAMITON,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00211&search_type=drugs&button=
+480,CUPRIC CHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00486&search_type=drugs&button=
+481,CUPRIC SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00486&search_type=drugs&button=
+482,CYANOCOBALAMIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CYANOCOBALAMIN&search_type=drugs&button=
+485,CYCLOPENTOLATE HYDROCHLORIDE; PHENYLEPHRINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00979
+486,CYCLOPHOSPHAMIDE,https://go.drugbank.com/drugs/DB00531
+487,CYCLOSERINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00894&search_type=drugs&button=
+488,CYCLOSPORINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CYCLOSPORINE&search_type=drugs&button=
+492,CYSTEINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=CYSTEINE+HYDROCHLORIDE&search_type=drugs&button=
+493,CYTARABINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00499&search_type=drugs&button=
+494,CYTARABINE; DAUNORUBICIN,https://go.drugbank.com/drugs/DB00694
+495,DABIGATRAN ETEXILATE MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DABIGATRAN+ETEXILATE+MESYLATE&search_type=drugs&button=
+496,DABRAFENIB MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DABRAFENIB+MESYLATE&search_type=drugs&button=
+497,DACARBAZINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00331&search_type=drugs&button=
+499,DACTINOMYCIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00124&search_type=drugs&button=
+500,DALBAVANCIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DALBAVANCIN+HYDROCHLORIDE&search_type=drugs&button=
+502,DALFOPRISTIN; QUINUPRISTIN,https://go.drugbank.com/drugs/DB01764
+503,DALTEPARIN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DALTEPARIN+SODIUM&search_type=drugs&button=
+504,DANAZOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DANAZOL&search_type=drugs&button=
+505,DANTROLENE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00901&search_type=drugs&button=
+507,DAPAGLIFLOZIN; METFORMIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01099&search_type=drugs&button=
+508,DAPIPRAZOLE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00902&search_type=drugs&button=
+509,DAPSONE,https://go.drugbank.com/drugs/DB00250
+512,DAROLUTAMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DAROLUTAMIDE&search_type=drugs&button=
+515,DAUNORUBICIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00521&search_type=drugs&button=
+517,DEFERASIROX,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DEFERASIROX&search_type=drugs&button=
+519,DEFEROXAMINE MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00904&search_type=drugs&button=
+520,DEFIBROTIDE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DEFIBROTIDE+SODIUM&search_type=drugs&button=
+521,DEFLAZACORT,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DEFLAZACORT&search_type=drugs&button=
+522,DELAFLOXACIN MEGLUMINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DELAFLOXACIN+MEGLUMINE&search_type=drugs&button=
+524,DEMECLOCYCLINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00272&search_type=drugs&button=
+525,DEOXYCHOLIC ACID,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DEOXYCHOLIC+ACID&search_type=drugs&button=
+527,DESIPRAMINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00022&search_type=drugs&button=
+530,DESMOPRESSIN ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DESMOPRESSIN+ACETATE&search_type=drugs&button=
+532,DESOXIMETASONE,https://go.drugbank.com/drugs/DB00547
+535,DEUTETRABENAZINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DEUTETRABENAZINE&search_type=drugs&button=
+537,DEXAMETHASONE ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DEXAMETHASONE+ACETATE+ANHYDROUS&search_type=drugs&button=
+539,DEXAMETHASONE SODIUM PHOSPHATE; LIDOCAINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB01234
+545,DEXMEDETOMIDINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00578&search_type=drugs&button=
+546,DEXMETHYLPHENIDATE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DEXMETHYLPHENIDATE+HYDROCHLORIDE&search_type=drugs&button=
+547,DEXRAZOXANE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00090&search_type=drugs&button=
+549,DEXTROAMPHETAMINE SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00480&search_type=drugs&button=
+552,DEXTROMETHORPHAN HYDROBROMIDE; QUINIDINE SULFATE,https://go.drugbank.com/drugs/DB00514
+554,DEXTROSE,https://go.drugbank.com/drugs/DB01914
+557,"DEXTROSE; MAGNESIUM CHLORIDE; POTASSIUM CHLORIDE; POTASSIUM PHOSPHATE, MONOBASIC; SODIUM CHLORIDE; SODIUM LACTATE",https://go.drugbank.com/drugs/DB00761
+558,DEXTROSE; MAGNESIUM CHLORIDE; POTASSIUM CHLORIDE; SODIUM ACETATE; SODIUM CHLORIDE; SODIUM GLUCONATE,https://go.drugbank.com/drugs/DB09472
+559,DEXTROSE; POTASSIUM CHLORIDE,https://go.drugbank.com/drugs/DB00761
+560,"DEXTROSE; POTASSIUM CHLORIDE; POTASSIUM PHOSPHATE, MONOBASIC; SODIUM CHLORIDE; SODIUM LACTATE",https://go.drugbank.com/drugs/DB09413
+561,DEXTROSE; POTASSIUM CHLORIDE; SODIUM CHLORIDE,https://go.drugbank.com/drugs/DB09153
+562,DEXTROSE; SODIUM CHLORIDE,https://go.drugbank.com/drugs/DB09449
+563,DIATRIZOATE MEGLUMINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DIATRIZOATE+MEGLUMINE+AND+DIATRIZOATE+SODIUM&search_type=drugs&button=
+564,DIATRIZOATE MEGLUMINE; DIATRIZOATE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DIATRIZOATE+MEGLUMINE+AND+DIATRIZOATE+SODIUM&search_type=drugs&button=
+565,DIATRIZOATE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DIATRIZOATE+MEGLUMINE+AND+DIATRIZOATE+SODIUM&search_type=drugs&button=
+566,DIAZEPAM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00642&search_type=drugs&button=
+567,DIAZOXIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00914&search_type=drugs&button=
+570,DICLOFENAC,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00527&search_type=drugs&button=
+572,DICLOFENAC POTASSIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00527&search_type=drugs&button=
+573,DICLOFENAC SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00527&search_type=drugs&button=
+575,DICLOXACILLIN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00916&search_type=drugs&button=
+576,DICYCLOMINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00113&search_type=drugs&button=
+578,DIENOGEST; ESTRADIOL VALERATE,https://go.drugbank.com/drugs/DB09123
+579,DIETHYLCARBAMAZINE CITRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DIETHYLCARBAMAZINE+CITRATE&search_type=drugs&button=
+582,DIFELIKEFALIN ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DIFELIKEFALIN+ACETATE&search_type=drugs&button=
+583,DIFLORASONE DIACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00921&search_type=drugs&button=
+585,DIFLUPREDNATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DIFLUPREDNATE&search_type=drugs&button=
+586,DIGOXIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00098&search_type=drugs&button=
+587,DIHYDROERGOTAMINE MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00476&search_type=drugs&button=
+589,DIMENHYDRINATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00924&search_type=drugs&button=
+590,DIMERCAPROL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Dimercaprol&search_type=drugs&button=
+593,DINOPROSTONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00927&search_type=drugs&button=
+595,DIPHENHYDRAMINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB01075
+596,DIPHENHYDRAMINE HYDROCHLORIDE; IBUPROFEN,https://go.drugbank.com/drugs/DB01050
+598,DIPYRIDAMOLE,https://go.drugbank.com/drugs/DB00975
+599,DIROXIMEL FUMARATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=diroximel+fumarate&search_type=drugs&button=
+600,DISOPYRAMIDE PHOSPHATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00507&search_type=drugs&button=
+603,DOBUTAMINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00122&search_type=drugs&button=
+604,DOCETAXEL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Docetaxel+Anhydrous&search_type=drugs&button=
+605,DOCOSANOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00933&search_type=drugs&button=
+606,DOFETILIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00367&search_type=drugs&button=
+607,DOLASETRON MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00518&search_type=drugs&button=
+610,DOLUTEGRAVIR SODIUM; RILPIVIRINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB08930
+612,DONEPEZIL HYDROCHLORIDE; MEMANTINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00843
+613,DOPAMINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00085&search_type=drugs&button=
+615,DORAVIRINE; LAMIVUDINE; TENOFOVIR DISOPROXIL FUMARATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00681&search_type=drugs&button=
+618,DOXAPRAM HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00935&search_type=drugs&button=
+620,DOXEPIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00398&search_type=drugs&button=
+621,DOXERCALCIFEROL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DOXERCALCIFEROL&search_type=drugs&button=
+622,DOXORUBICIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00185&search_type=drugs&button=
+623,DOXYCYCLINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00597&search_type=drugs&button=
+624,DOXYCYCLINE CALCIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00597&search_type=drugs&button=
+626,DOXYLAMINE SUCCINATE,https://go.drugbank.com/drugs/DB00366
+628,DRONABINOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Dronabinol&search_type=drugs&button=
+629,DROPERIDOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00939&search_type=drugs&button=
+631,DROSPIRENONE; ESTETROL,https://go.drugbank.com/drugs/DB01395
+635,DROXIDOPA,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DROXIDOPA&search_type=drugs&button=
+637,DUTASTERIDE,https://go.drugbank.com/drugs/DB01126
+638,DUTASTERIDE; TAMSULOSIN HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00706
+639,DUVELISIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=DUVELISIB&search_type=drugs&button=
+641,ECHOTHIOPHATE IODIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00942&search_type=drugs&button=
+644,EDETATE CALCIUM DISODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=EDETATE+CALCIUM+DISODIUM&search_type=drugs&button=
+645,EDOXABAN TOSYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=EDOXABAN+TOSYLATE&search_type=drugs&button=
+646,EDROPHONIUM CHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=edrophonium+chloride&search_type=drugs&button=
+647,EFAVIRENZ,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00059&search_type=drugs&button=
+650,EFINACONAZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=EFINACONAZOLE&search_type=drugs&button=
+651,EFLORNITHINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=EFLORNITHINE+HYDROCHLORIDE&search_type=drugs&button=
+653,ELBASVIR; GRAZOPREVIR,https://go.drugbank.com/drugs/DB11574
+655,"ELEXACAFTOR, IVACAFTOR, TEZACAFTOR; IVACAFTOR",https://go.drugbank.com/drugs/DB15444
+656,ELTROMBOPAG OLAMINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ELTROMBOPAG+OLAMINE&search_type=drugs&button=
+657,ELUXADOLINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ELUXADOLINE&search_type=drugs&button=
+661,EMPAGLIFLOZIN; LINAGLIPTIN; METFORMIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01099&search_type=drugs&button=
+663,EMTRICITABINE,https://go.drugbank.com/drugs/DB00879
+669,ENALAPRILAT,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=enalaprilat&search_type=drugs&button=
+670,ENASIDENIB MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ENASIDENIB+MESYLATE&search_type=drugs&button=
+671,ENCORAFENIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ENCORAFENIB&search_type=drugs&button=
+672,ENFUVIRTIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ENFUVIRTIDE&search_type=drugs&button=
+676,ENTRECTINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ENTRECTINIB&search_type=drugs&button=
+677,ENZALUTAMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ENZALUTAMIDE&search_type=drugs&button=
+684,EPINEPHRINE BITARTRATE; PRILOCAINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00668
+685,EPINEPHRINE; LIDOCAINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00281
+686,EPIRUBICIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00361&search_type=drugs&button=
+688,EPOPROSTENOL SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00949&search_type=drugs&button=
+689,EPROSARTAN MESYLATE,https://go.drugbank.com/drugs/DB00876
+690,EPROSARTAN MESYLATE; HYDROCHLOROTHIAZIDE,https://go.drugbank.com/drugs/DB00876
+691,EPTIFIBATIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=EPTIFIBATIDE&search_type=drugs&button=
+692,ERAVACYCLINE DIHYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ERAVACYCLINE+DIHYDROCHLORIDE&search_type=drugs&button=
+693,ERDAFITINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Erdafitinib&search_type=drugs&button=
+694,ERGOCALCIFEROL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ERGOCALCIFEROL&search_type=drugs&button=
+695,ERGOLOID MESYLATES,https://go.drugbank.com/drugs/DB01049
+701,ERTUGLIFLOZIN; METFORMIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01099&search_type=drugs&button=
+703,ERYTHROMYCIN ETHYLSUCCINATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00953&search_type=drugs&button=
+704,ERYTHROMYCIN ETHYLSUCCINATE; SULFISOXAZOLE ACETYL,https://go.drugbank.com/drugs/DB00199
+705,ERYTHROMYCIN LACTOBIONATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00953&search_type=drugs&button=
+707,ESCITALOPRAM OXALATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00683&search_type=drugs&button=
+708,ESKETAMINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Esketamine+Hydrochloride&search_type=drugs&button=
+709,ESLICARBAZEPINE ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ESLICARBAZEPINE+ACETATE&search_type=drugs&button=
+710,ESMOLOL HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00954&search_type=drugs&button=
+716,ESTRADIOL,https://go.drugbank.com/drugs/DB00977
+718,ESTRADIOL CYPIONATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00311&search_type=drugs&button=
+720,ESTRADIOL HEMIHYDRATE,https://go.drugbank.com/drugs/DB00783
+721,ESTRADIOL VALERATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00311&search_type=drugs&button=
+722,ESTRADIOL; LEVONORGESTREL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00691&search_type=drugs&button=
+723,ESTRADIOL; NORETHINDRONE ACETATE,https://go.drugbank.com/drugs/DB00717
+724,ESTRADIOL; NORETHINDRONE ACETATE; RELUGOLIX,https://go.drugbank.com/drugs/DB00783
+726,ESTRADIOL; PROGESTERONE,https://go.drugbank.com/drugs/DB00396
+727,ESTRAMUSTINE PHOSPHATE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00625&search_type=drugs&button=
+728,"ESTROGENS, CONJUGATED","https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ESTROGENS,+CONJUGATED&search_type=drugs&button="
+729,"ESTROGENS, CONJUGATED SYNTHETIC A",https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ESTROPIPATE&search_type=drugs&button=
+730,"ESTROGENS, CONJUGATED SYNTHETIC B","https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ESTROGENS,+CONJUGATED+SYNTHETIC+B&search_type=drugs&button="
+732,ESTRONE,https://go.drugbank.com/drugs/DB00655
+733,ESTROPIPATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ESTROPIPATE&search_type=drugs&button=
+735,ETELCALCETIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ETELCALCETIDE+HYDROCHLORIDE&search_type=drugs&button=
+736,ETEPLIRSEN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=eteplirsen&search_type=drugs&button=
+737,ETHACRYNATE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00251&search_type=drugs&button=
+740,ETHANOLAMINE OLEATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Ethanolamine+Oleate&search_type=drugs&button=
+743,ETHINYL ESTRADIOL; NORELGESTROMIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00691&search_type=drugs&button=
+745,ETHINYL ESTRADIOL; NORETHINDRONE ACETATE,https://go.drugbank.com/drugs/DB00977
+746,ETHINYL ESTRADIOL; SEGESTERONE ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00691&search_type=drugs&button=
+747,ETHIODIZED OIL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ETHIODIZED+OIL&search_type=drugs&button=
+748,ETHIONAMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00961&search_type=drugs&button=
+749,ETHOSUXIMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00318&search_type=drugs&button=
+750,ETHOTOIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00962&search_type=drugs&button=
+751,ETODOLAC,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00067&search_type=drugs&button=
+752,ETOMIDATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00965&search_type=drugs&button=
+753,ETONOGESTREL,https://go.drugbank.com/drugs/DB00294
+754,ETOPOSIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00239&search_type=drugs&button=
+755,ETOPOSIDE PHOSPHATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Ethanolamine+Oleate&search_type=drugs&button=
+762,FAMOTIDINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00296&search_type=drugs&button=
+765,FEDRATINIB HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=FEDRATINIB+HYDROCHLORIDE&search_type=drugs&button=
+768,FENOFIBRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00405&search_type=drugs&button=
+770,FENOLDOPAM MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00969&search_type=drugs&button=
+771,FENOPROFEN CALCIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00970&search_type=drugs&button=
+772,FENTANYL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00347&search_type=drugs&button=
+773,FENTANYL CITRATE,https://go.drugbank.com/drugs/DB00813
+774,FERRIC CARBOXYMALTOSE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=FERRIC+CARBOXYMALTOSE&search_type=drugs&button=
+776,FERRIC DERISOMALTOSE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=FERRIC+DERISOMALTOSE&search_type=drugs&button=
+777,FERRIC MALTOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=FERRIC+MALTOL&search_type=drugs&button=
+778,FERRIC OXYHYDROXIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=FERRIC+OXYHYDROXIDE&search_type=drugs&button=
+779,FERRIC PYROPHOSPHATE CITRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=FERRIC+PYROPHOSPHATE+CITRATE&search_type=drugs&button=
+780,FERROUS SULFATE; FOLIC ACID,https://go.drugbank.com/drugs/DB13257
+781,FERUMOXIDES,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ferumoxides&search_type=drugs&button=
+784,FEXINIDAZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=FEXINIDAZOLE&search_type=drugs&button=
+785,FEXOFENADINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00349&search_type=drugs&button=
+787,FIDAXOMICIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=FIDAXOMICIN&search_type=drugs&button=
+789,FINASTERIDE; TADALAFIL,https://go.drugbank.com/drugs/DB01216
+790,FINERENONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=FINERENONE&search_type=drugs&button=
+791,FINGOLIMOD HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=FINGOLIMOD+HYDROCHLORIDE&search_type=drugs&button=
+794,FLIBANSERIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Flibanserin&search_type=drugs&button=
+795,FLORBETABEN F-18,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=FLORBETABEN+F-18&search_type=drugs&button=
+796,FLORBETAPIR F-18,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=FLORBETAPIR+F-18&search_type=drugs&button=
+797,FLORTAUCIPIR F-18,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Flortaucipir+F-18&search_type=drugs&button=
+799,FLUCICLOVINE F-18,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Fluciclovine+F-18&search_type=drugs&button=
+800,FLUCONAZOLE,https://go.drugbank.com/drugs/DB00196
+801,FLUCYTOSINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00299&search_type=drugs&button=
+807,FLUOCINOLONE ACETONIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00977&search_type=drugs&button=
+808,FLUOCINOLONE ACETONIDE; HYDROQUINONE; TRETINOIN,https://go.drugbank.com/drugs/DB00591
+809,FLUOCINOLONE ACETONIDE; NEOMYCIN SULFATE,https://go.drugbank.com/drugs/DB00994
+810,FLUOCINONIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00978&search_type=drugs&button=
+813,FLUOROESTRADIOL F-18,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=FLUOROESTRADIOL+F-18&search_type=drugs&button=
+814,FLUOROMETHOLONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00980&search_type=drugs&button=
+816,FLUOROMETHOLONE; SULFACETAMIDE SODIUM,https://go.drugbank.com/drugs/DB00324
+817,FLUOROURACIL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00516&search_type=drugs&button=
+819,FLUOXETINE HYDROCHLORIDE; OLANZAPINE,https://go.drugbank.com/drugs/DB00472
+820,FLUOXYMESTERONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00981&search_type=drugs&button=
+822,FLUPHENAZINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00633&search_type=drugs&button=
+823,FLURANDRENOLIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00982&search_type=drugs&button=
+824,FLURAZEPAM HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00983&search_type=drugs&button=
+827,FLUTAMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00984&search_type=drugs&button=
+828,FLUTEMETAMOL F-18,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Flutemetamol+F-18&search_type=drugs&button=
+830,FLUTICASONE FUROATE; UMECLIDINIUM BROMIDE; VILANTEROL TRIFENATATE,https://go.drugbank.com/drugs/DB08906
+833,FLUTICASONE PROPIONATE; SALMETEROL XINAFOATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00277&search_type=drugs&button=
+834,FLUVASTATIN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00346&search_type=drugs&button=
+835,FLUVOXAMINE MALEATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00425&search_type=drugs&button=
+837,FOMEPIZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00985&search_type=drugs&button=
+841,FORMOTEROL FUMARATE; MOMETASONE FUROATE,https://go.drugbank.com/drugs/DB00983
+845,FOSDENOPTERIN HYDROBROMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=fosdenopterin+hydrobromide&search_type=drugs&button=
+846,FOSFOMYCIN TROMETHAMINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00987&search_type=drugs&button=
+849,FOSPHENYTOIN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00241&search_type=drugs&button=
+850,FOSTEMSAVIR TROMETHAMINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=FOSTEMSAVIR+TROMETHAMINE&search_type=drugs&button=
+855,GABAPENTIN,https://go.drugbank.com/drugs/DB00996
+856,GABAPENTIN ENACARBIL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00015&search_type=drugs&button=
+860,GADOFOSVESET TRISODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=gadofosveset+trisodium&search_type=drugs&button=
+861,GADOPENTETATE DIMEGLUMINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00991&search_type=drugs&button=
+864,GADOXETATE DISODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=GADOXETATE+DISODIUM&search_type=drugs&button=
+865,GALANTAMINE HYDROBROMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00206&search_type=drugs&button=
+868,GALLIUM NITRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=GALLIUM+NITRATE&search_type=drugs&button=
+869,GANAXOLONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ganaxolone&search_type=drugs&button=
+870,GANCICLOVIR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00263&search_type=drugs&button=
+871,GANCICLOVIR SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00263&search_type=drugs&button=
+876,GEMFIBROZIL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00293&search_type=drugs&button=
+878,GENTAMICIN SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00214&search_type=drugs&button=
+879,GENTAMICIN SULFATE; PREDNISOLONE ACETATE,https://go.drugbank.com/drugs/DB00860
+881,GILTERITINIB FUMARATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=GILTERITINIB+FUMARATE&search_type=drugs&button=
+882,GIVOSIRAN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=givosiran+sodium&search_type=drugs&button=
+883,GLATIRAMER ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00999&search_type=drugs&button=
+884,GLECAPREVIR; PIBRENTASVIR,https://go.drugbank.com/drugs/DB13879
+886,GLIMEPIRIDE; PIOGLITAZONE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00222
+893,GLYCEROL PHENYLBUTYRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=GLYCEROL+PHENYLBUTYRATE&search_type=drugs&button=
+896,GLYCOPYRRONIUM TOSYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=GLYCOPYRRONIUM+TOSYLATE&search_type=drugs&button=
+897,GOLODIRSEN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=golodirsen&search_type=drugs&button=
+899,GOSERELIN ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=GOSERELIN+ACETATE&search_type=drugs&button=
+901,GRANISETRON,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01002&search_type=drugs&button=
+906,GUAIFENESIN; HYDROCODONE BITARTRATE,https://go.drugbank.com/drugs/DB00874
+910,HALCINONIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=HALCINONIDE&search_type=drugs&button=
+912,HALOBETASOL PROPIONATE; TAZAROTENE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01246&search_type=drugs&button=
+915,HALOPERIDOL LACTATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00538&search_type=drugs&button=
+917,HETACILLIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00320&search_type=drugs&button=
+918,HETACILLIN POTASSIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00320&search_type=drugs&button=
+919,HEXACHLOROPHENE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00722&search_type=drugs&button=
+920,HEXAMINOLEVULINATE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=HEXAMINOLEVULINATE+HYDROCHLORIDE&search_type=drugs&button=
+922,HISTRELIN ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=HISTRELIN+ACETATE&search_type=drugs&button=
+925,HYDRALAZINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Hydralazine+Hydrochloride&search_type=drugs&button=
+927,HYDROCHLOROTHIAZIDE,https://go.drugbank.com/drugs/DB00999
+936,HYDROCHLOROTHIAZIDE; TRIAMTERENE,https://go.drugbank.com/drugs/DB00384
+938,HYDROCODONE BITARTRATE,https://go.drugbank.com/drugs/DB00956
+942,HYDROCORTISONE ACETATE; NEOMYCIN SULFATE,https://go.drugbank.com/drugs/DB00994
+943,HYDROCORTISONE ACETATE; NEOMYCIN SULFATE; POLYMYXIN B SULFATE,https://go.drugbank.com/drugs/DB00626
+944,HYDROCORTISONE ACETATE; OXYTETRACYCLINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00595
+946,HYDROCORTISONE BUTYRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01019&search_type=drugs&button=
+947,HYDROCORTISONE PROBUTATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01019&search_type=drugs&button=
+948,HYDROCORTISONE SODIUM SUCCINATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=HYDROCORTISONE+SODIUM+SUCCINATE&search_type=drugs&button=
+949,HYDROCORTISONE VALERATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01019&search_type=drugs&button=
+950,HYDROCORTISONE; NEOMYCIN SULFATE,https://go.drugbank.com/drugs/DB00994
+952,HYDROFLUMETHIAZIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01020&search_type=drugs&button=
+954,HYDROMORPHONE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01021&search_type=drugs&button=
+955,HYDROXOCOBALAMIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01022&search_type=drugs&button=
+956,HYDROXYAMPHETAMINE HYDROBROMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00287&search_type=drugs&button=
+957,HYDROXYAMPHETAMINE HYDROBROMIDE; TROPICAMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00287&search_type=drugs&button=
+960,HYDROXYPROPYL CELLULOSE,https://go.drugbank.com/drugs/DB00840
+961,HYDROXYUREA,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00023&search_type=drugs&button=
+963,HYDROXYZINE PAMOATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00688&search_type=drugs&button=
+965,IBREXAFUNGERP CITRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=IBREXAFUNGERP+CITRATE&search_type=drugs&button=
+966,IBRUTINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=IBRUTINIB&search_type=drugs&button=
+967,IBUPROFEN,https://go.drugbank.com/drugs/DB01050
+971,IBUPROFEN; PSEUDOEPHEDRINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00852
+972,IBUTILIDE FUMARATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01025&search_type=drugs&button=
+974,ICODEXTRIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01026&search_type=drugs&button=
+975,ICOSAPENT ETHYL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ICOSAPENT+ETHYL&search_type=drugs&button=
+977,IDELALISIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=IDELALISIB&search_type=drugs&button=
+981,ILOPROST,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01027&search_type=drugs&button=
+982,IMATINIB MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01028&search_type=drugs&button=
+983,IMIPRAMINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00672&search_type=drugs&button=
+984,IMIPRAMINE PAMOATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00672&search_type=drugs&button=
+985,IMIQUIMOD,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01030&search_type=drugs&button=
+986,INCLISIRAN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=INCLISIRAN+SODIUM&search_type=drugs&button=
+989,INDINAVIR SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=INDINAVIR+SULFATE&search_type=drugs&button=
+996,INOTERSEN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=INOTERSEN+SODIUM&search_type=drugs&button=
+998,IOBENGUANE I-131,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=IOBENGUANE+I-131&search_type=drugs&button=
+999,IOBENGUANE SULFATE I-123,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=IOBENGUANE+SULFATE+I-123&search_type=drugs&button=
+1003,IOHEXOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Iohexol&search_type=drugs&button=
+1006,IOTHALAMATE MEGLUMINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=IOTHALAMATE+MEGLUMINE&search_type=drugs&button=
+1007,IOTHALAMATE SODIUM,https://go.drugbank.com/drugs/DB09133
+1012,IRINOTECAN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00579&search_type=drugs&button=
+1013,ISAVUCONAZONIUM SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ISAVUCONAZONIUM+SULFATE&search_type=drugs&button=
+1021,ISOSORBIDE DINITRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00455&search_type=drugs&button=
+1024,ISOTRETINOIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00140&search_type=drugs&button=
+1025,ISRADIPINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00298&search_type=drugs&button=
+1026,ISTRADEFYLLINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=istradefylline&search_type=drugs&button=
+1027,ITRACONAZOLE,https://go.drugbank.com/drugs/DB01167
+1029,IVACAFTOR,https://go.drugbank.com/drugs/DB08820
+1030,IVACAFTOR; LUMACAFTOR,https://go.drugbank.com/drugs/DB09280
+1031,IVERMECTIN,https://go.drugbank.com/drugs/DB00602
+1033,IXABEPILONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=IXABEPILONE&search_type=drugs&button=
+1034,IXAZOMIB CITRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ixazomib+citrate&search_type=drugs&button=
+1035,KANAMYCIN SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=KANAMYCIN+A+SULFATE&search_type=drugs&button=
+1038,KETOPROFEN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01059&search_type=drugs&button=
+1040,KETOTIFEN FUMARATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01061&search_type=drugs&button=
+1041,L-GLUTAMINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=GLUTAMINE&search_type=drugs&button=
+1045,LACTULOSE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01063&search_type=drugs&button=
+1054,LATANOPROST,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01065&search_type=drugs&button=
+1055,LATANOPROSTENE BUNOD,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LATANOPROSTENE+BUNOD&search_type=drugs&button=
+1057,LEFAMULIN ACETATE,https://go.drugbank.com/drugs/DB12825
+1059,LEMBOREXANT,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LEMBOREXANT&search_type=drugs&button=
+1060,LENALIDOMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01303&search_type=drugs&button=
+1061,LETERMOVIR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LETERMOVIR&search_type=drugs&button=
+1063,LEUCOVORIN CALCIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00698&search_type=drugs&button=
+1064,LEUPROLIDE ACETATE,https://go.drugbank.com/drugs/DB00007
+1065,LEUPROLIDE MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LEUPROLIDE+MESYLATE&search_type=drugs&button=
+1072,LEVOCABASTINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01069&search_type=drugs&button=
+1073,LEVOCARNITINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01070&search_type=drugs&button=
+1075,LEVODOPA,https://go.drugbank.com/drugs/DB01235
+1077,LEVOKETOCONAZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LEVOKETOCONAZOLE&search_type=drugs&button=
+1080,LEVOMILNACIPRAN HYDROCHLORIDE,https://go.drugbank.com/drugs/DB08918
+1081,LEVONORDEFRIN; MEPIVACAINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01094&search_type=drugs&button=
+1082,LEVONORGESTREL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00691&search_type=drugs&button=
+1084,LEVOTHYROXINE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00235&search_type=drugs&button=
+1086,LIDOCAINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00479&search_type=drugs&button=
+1087,LIDOCAINE; PRILOCAINE,https://go.drugbank.com/drugs/DB00281
+1088,LIDOCAINE; TETRACAINE,https://go.drugbank.com/drugs/DB09085
+1090,LINACLOTIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LINACLOTIDE&search_type=drugs&button=
+1094,LINCOMYCIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LINCOMYCIN+HYDROCHLORIDE&search_type=drugs&button=
+1095,LINDANE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01072&search_type=drugs&button=
+1096,LINEZOLID,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01073&search_type=drugs&button=
+1098,LISDEXAMFETAMINE DIMESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LISDEXAMFETAMINE+DIMESYLATE&search_type=drugs&button=
+1100,LITHIUM CARBONATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=lithium+carbonate&search_type=drugs&button=
+1101,LITHIUM CITRATE,https://go.drugbank.com/drugs/DB01356
+1103,LOFEXIDINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LOFEXIDINE+HYDROCHLORIDE&search_type=drugs&button=
+1104,LOMEFLOXACIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01076&search_type=drugs&button=
+1105,LOMITAPIDE MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LOMITAPIDE+MESYLATE&search_type=drugs&button=
+1106,LOMUSTINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00292&search_type=drugs&button=
+1107,LONAFARNIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LONAFARNIB&search_type=drugs&button=
+1108,LOPERAMIDE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00275&search_type=drugs&button=
+1110,LOPINAVIR; RITONAVIR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00312&search_type=drugs&button=
+1111,LORATADINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00384&search_type=drugs&button=
+1113,LORAZEPAM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00116&search_type=drugs&button=
+1114,LORLATINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LORLATINIB&search_type=drugs&button=
+1116,LOTEPREDNOL ETABONATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01078&search_type=drugs&button=
+1117,LOTEPREDNOL ETABONATE; TOBRAMYCIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00582&search_type=drugs&button=
+1120,LOXAPINE SUCCINATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00574&search_type=drugs&button=
+1121,LUBIPROSTONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01298&search_type=drugs&button=
+1122,LULICONAZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LULICONAZOLE&search_type=drugs&button=
+1124,LURBINECTEDIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LURBINECTEDIN&search_type=drugs&button=
+1125,LUSUTROMBOPAG,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LUSUTROMBOPAG&search_type=drugs&button=
+1126,LUTETIUM LU 177 DOTATATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LUTETIUM+OXODOTREOTIDE+LU-177&search_type=drugs&button=
+1127,LUTETIUM LU-177 VIPIVOTIDE TETRAXETAN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=LUTETIUM+LU-177+VIPIVOTIDE+TETRAXETAN&search_type=drugs&button=
+1128,MACIMORELIN ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=MACIMORELIN&search_type=drugs&button=
+1129,MACITENTAN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=macitentan&search_type=drugs&button=
+1130,MAFENIDE ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=MAFENIDE+ACETATE&search_type=drugs&button=
+1133,MAGNESIUM HYDROXIDE; OMEPRAZOLE; SODIUM BICARBONATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00446&search_type=drugs&button=
+1138,MANGANESE CHLORIDE TETRAHYDRATE,https://go.drugbank.com/drugs/DB06757
+1141,MANNITOL; SORBITOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01083&search_type=drugs&button=
+1142,MARALIXIBAT CHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=maralixibat+chloride&search_type=drugs&button=
+1144,MARIBAVIR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=MARIBAVIR&search_type=drugs&button=
+1145,MAVACAMTEN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=MAVACAMTEN&search_type=drugs&button=
+1148,MECHLORETHAMINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00249&search_type=drugs&button=
+1150,MECLOFENAMATE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=MECLOFENAMATE+SODIUM&search_type=drugs&button=
+1151,MEDROXYPROGESTERONE ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00627&search_type=drugs&button=
+1152,MEDRYSONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01091&search_type=drugs&button=
+1153,MEFENAMIC ACID,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00730&search_type=drugs&button=
+1156,MELOXICAM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00529&search_type=drugs&button=
+1158,MELPHALAN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00118&search_type=drugs&button=
+1159,MEMANTINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00221&search_type=drugs&button=
+1162,MEPERIDINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00074&search_type=drugs&button=
+1163,MEPIVACAINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01094&search_type=drugs&button=
+1164,MEPROBAMATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01095&search_type=drugs&button=
+1167,MEROPENEM; VABORBACTAM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01097&search_type=drugs&button=
+1172,METFORMIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01099&search_type=drugs&button=
+1174,METFORMIN HYDROCHLORIDE; ROSIGLITAZONE MALEATE,https://go.drugbank.com/drugs/DB00412
+1175,METFORMIN HYDROCHLORIDE; SAXAGLIPTIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01099&search_type=drugs&button=
+1176,METHACHOLINE CHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=METHACHOLINE+CHLORIDE&search_type=drugs&button=
+1177,METHADONE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00485&search_type=drugs&button=
+1183,METHOHEXITAL SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00058&search_type=drugs&button=
+1185,METHOTREXATE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00353&search_type=drugs&button=
+1186,METHOXSALEN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00157&search_type=drugs&button=
+1188,METHSUXIMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=METHSUXIMIDE&search_type=drugs&button=
+1189,METHYL AMINOLEVULINATE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01105&search_type=drugs&button=
+1193,METHYLNALTREXONE BROMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=METHYLNALTREXONE+BROMIDE&search_type=drugs&button=
+1194,METHYLPHENIDATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00657&search_type=drugs&button=
+1197,METHYLPREDNISOLONE ACETATE,https://go.drugbank.com/drugs/DB00959
+1198,METHYLPREDNISOLONE SODIUM SUCCINATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00342&search_type=drugs&button=
+1199,METHYLTESTOSTERONE,https://go.drugbank.com/drugs/DB06710
+1200,METOCLOPRAMIDE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00665&search_type=drugs&button=
+1202,METOPROLOL SUCCINATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00208&search_type=drugs&button=
+1204,METRONIDAZOLE,https://go.drugbank.com/drugs/DB00916
+1206,METYRAPONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01111&search_type=drugs&button=
+1207,METYROSINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01112&search_type=drugs&button=
+1208,MEXILETINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00242&search_type=drugs&button=
+1211,MICONAZOLE NITRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01115&search_type=drugs&button=
+1216,MIDOSTAURIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=MIDOSTAURIN&search_type=drugs&button=
+1218,MIGALASTAT HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=MIGALASTAT+HYDROCHLORIDE&search_type=drugs&button=
+1220,MIGLUSTAT,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01118&search_type=drugs&button=
+1223,MILTEFOSINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=MILTEFOSINE&search_type=drugs&button=
+1226,MIPOMERSEN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=MIPOMERSEN+SODIUM&search_type=drugs&button=
+1227,MIRABEGRON,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=MIRABEGRON&search_type=drugs&button=
+1230,MITOMYCIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00284&search_type=drugs&button=
+1235,MOLINDONE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=MOLINDONE+HYDROCHLORIDE&search_type=drugs&button=
+1237,MOMETASONE FUROATE; OLOPATADINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00764
+1238,MONOMETHYL FUMARATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=monomethyl+fumarate&search_type=drugs&button=
+1239,MONTELUKAST SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00434&search_type=drugs&button=
+1244,MUPIROCIN CALCIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00162&search_type=drugs&button=
+1245,MYCOPHENOLATE MOFETIL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=MYCOPHENOLATE+MOFETIL&search_type=drugs&button=
+1246,MYCOPHENOLATE MOFETIL HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00688
+1248,NABILONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01127&search_type=drugs&button=
+1251,NAFARELIN ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01129&search_type=drugs&button=
+1252,NAFCILLIN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01130&search_type=drugs&button=
+1253,NAFTIFINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01131&search_type=drugs&button=
+1255,NALDEMEDINE TOSYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=naldemedine+tosylate&search_type=drugs&button=
+1256,NALIDIXIC ACID,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01133&search_type=drugs&button=
+1261,NALTREXONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00005&search_type=drugs&button=
+1263,NANDROLONE DECANOATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Nandrolone+Decanoate&search_type=drugs&button=
+1267,NAPROXEN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01135&search_type=drugs&button=
+1271,NATAMYCIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01136&search_type=drugs&button=
+1274,NEDOCROMIL SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01137&search_type=drugs&button=
+1279,NEOMYCIN SULFATE; POLYMYXIN B SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00013&search_type=drugs&button=
+1282,NERATINIB MALEATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=NERATINIB+MALEATE&search_type=drugs&button=
+1285,NIACIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=NIACIN&search_type=drugs&button=
+1287,NICOTINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00200&search_type=drugs&button=
+1288,NICOTINE POLACRILEX,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00200&search_type=drugs&button=
+1289,NIFEDIPINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00590&search_type=drugs&button=
+1290,NIFURTIMOX,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=NIFURTIMOX&search_type=drugs&button=
+1292,NIMODIPINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00612&search_type=drugs&button=
+1293,NINTEDANIB ESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=NINTEDANIB+ESYLATE&search_type=drugs&button=
+1295,NITAZOXANIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00558&search_type=drugs&button=
+1296,NITISINONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01141&search_type=drugs&button=
+1297,NITRIC OXIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01142&search_type=drugs&button=
+1298,NITROFURANTOIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00191&search_type=drugs&button=
+1299,"NITROFURANTOIN, MACROCRYSTALLINE",https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00191&search_type=drugs&button=
+1300,"NITROFURANTOIN; NITROFURANTOIN, MACROCRYSTALLINE",https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00191&search_type=drugs&button=
+1302,NIZATIDINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00706&search_type=drugs&button=
+1307,NORTRIPTYLINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00602&search_type=drugs&button=
+1310,OBETICHOLIC ACID,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=OBETICHOLIC+ACID&search_type=drugs&button=
+1312,ODEVIXIBAT,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=odevixibat&search_type=drugs&button=
+1315,OLANZAPINE PAMOATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00138&search_type=drugs&button=
+1316,OLANZAPINE; SAMIDORPHAN L-MALATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00138&search_type=drugs&button=
+1317,OLAPARIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=OLAPARIB&search_type=drugs&button=
+1318,OLICERIDINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=OLICERIDINE&search_type=drugs&button=
+1319,OLIVE OIL; SOYBEAN OIL,https://go.drugbank.com/drugs/DB09422
+1323,OLSALAZINE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=olsalazine+sodium&search_type=drugs&button=
+1324,OMACETAXINE MEPESUCCINATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=OMACETAXINE+MEPESUCCINATE&search_type=drugs&button=
+1325,OMBITASVIR; PARITAPREVIR; RITONAVIR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00312&search_type=drugs&button=
+1326,OMEGA-3-ACID ETHYL ESTERS,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=OMEGA-3-ACID+ETHYL+ESTERS&search_type=drugs&button=
+1329,OMEPRAZOLE; SODIUM BICARBONATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00446&search_type=drugs&button=
+1330,ONDANSETRON,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00481&search_type=drugs&button=
+1332,OPICAPONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=OPICAPONE&search_type=drugs&button=
+1333,ORITAVANCIN DIPHOSPHATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=oritavancin+diphosphate&search_type=drugs&button=
+1334,ORLISTAT,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00255&search_type=drugs&button=
+1336,OSELTAMIVIR PHOSPHATE,https://go.drugbank.com/drugs/DB00198
+1338,OSPEMIFENE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=OSPEMIFENE&search_type=drugs&button=
+1339,OTESECONAZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=OTESECONAZOLE&search_type=drugs&button=
+1340,OXACILLIN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01149&search_type=drugs&button=
+1344,OXAZEPAM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01152&search_type=drugs&button=
+1346,OXICONAZOLE NITRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01154&search_type=drugs&button=
+1347,OXYBUTYNIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00427&search_type=drugs&button=
+1348,OXYBUTYNIN CHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00427&search_type=drugs&button=
+1349,OXYCODONE,https://go.drugbank.com/drugs/DB00497
+1350,OXYCODONE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00497
+1351,OXYMETAZOLINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01158&search_type=drugs&button=
+1352,OXYMETAZOLINE HYDROCHLORIDE; TETRACAINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01158&search_type=drugs&button=
+1355,OXYTETRACYCLINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=OXYTETRACYCLINE+HYDROCHLORIDE&search_type=drugs&button=
+1357,OZANIMOD HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=OZANIMOD+HYDROCHLORIDE&search_type=drugs&button=
+1358,OZENOXACIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=OZENOXACIN&search_type=drugs&button=
+1360,PAFOLACIANINE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PAFOLACIANINE+SODIUM&search_type=drugs&button=
+1361,PALBOCICLIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PALBOCICLIB&search_type=drugs&button=
+1364,PALONOSETRON HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00351&search_type=drugs&button=
+1365,PAMIDRONATE DISODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PAMIDRONATE+DISODIUM&search_type=drugs&button=
+1366,PANCURONIUM BROMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PANCURONIUM+BROMIDE&search_type=drugs&button=
+1367,PANOBINOSTAT LACTATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PANOBINOSTAT+LACTATE&search_type=drugs&button=
+1368,PANTOPRAZOLE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00073&search_type=drugs&button=
+1369,PARICALCITOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01165&search_type=drugs&button=
+1370,PAROMOMYCIN SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PAROMOMYCIN+SULFATE&search_type=drugs&button=
+1371,PAROXETINE MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00364&search_type=drugs&button=
+1372,PATISIRAN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=patisiran+sodium&search_type=drugs&button=
+1373,PAZOPANIB HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PAZOPANIB+HYDROCHLORIDE&search_type=drugs&button=
+1374,PEGCETACOPLAN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Pegcetacoplan&search_type=drugs&button=
+1377,PEMIGATINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PEMIGATINIB&search_type=drugs&button=
+1378,PENCICLOVIR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00041&search_type=drugs&button=
+1379,PENICILLAMINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01171&search_type=drugs&button=
+1380,PENICILLIN G BENZATHINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00646&search_type=drugs&button=
+1381,PENICILLIN G BENZATHINE; PENICILLIN G PROCAINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00646&search_type=drugs&button=
+1382,PENICILLIN G POTASSIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00646&search_type=drugs&button=
+1383,PENICILLIN G PROCAINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00646&search_type=drugs&button=
+1385,PENICILLIN V,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00423&search_type=drugs&button=
+1386,PENICILLIN V POTASSIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00423&search_type=drugs&button=
+1387,PENTAGASTRIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01172&search_type=drugs&button=
+1388,PENTAMIDINE ISETHIONATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00303&search_type=drugs&button=
+1392,PENTOBARBITAL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01174&search_type=drugs&button=
+1393,PENTOBARBITAL SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01174&search_type=drugs&button=
+1394,PENTOSAN POLYSULFATE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01175&search_type=drugs&button=
+1398,PERAMPANEL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PERAMPANEL&search_type=drugs&button=
+1402,PERMETHRIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Permethrin&search_type=drugs&button=
+1403,PERPHENAZINE,https://go.drugbank.com/drugs/DB00850
+1404,PEXIDARTINIB HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PEXIDARTINIB+HYDROCHLORIDE&search_type=drugs&button=
+1407,PHENOXYBENZAMINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00651&search_type=drugs&button=
+1408,PHENTERMINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00093&search_type=drugs&button=
+1410,PHENYLBUTAZONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00409&search_type=drugs&button=
+1415,PHENYTOIN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00241&search_type=drugs&button=
+1416,PHYTONADIONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00464&search_type=drugs&button=
+1417,PIFLUFOLASTAT F-18,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PIFLUFOLASTAT+F-18&search_type=drugs&button=
+1419,PILOCARPINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB01085
+1420,PIMAVANSERIN TARTRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=pimavanserin+tartrate&search_type=drugs&button=
+1421,PIMECROLIMUS,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01182&search_type=drugs&button=
+1422,PIMOZIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00218&search_type=drugs&button=
+1429,PIRFENIDONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PIRFENIDONE&search_type=drugs&button=
+1430,PIROXICAM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01187&search_type=drugs&button=
+1431,PITAVASTATIN CALCIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=pitavastatin+calcium&search_type=drugs&button=
+1432,PITOLISANT HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PITOLISANT+HYDROCHLORIDE&search_type=drugs&button=
+1434,PLERIXAFOR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PLERIXAFOR&search_type=drugs&button=
+1435,PODOFILOX,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01189&search_type=drugs&button=
+1437,POLYETHYLENE GLYCOL 3350,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=POLYETHYLENE+GLYCOL+3350&search_type=drugs&button=
+1438,POLYETHYLENE GLYCOL 3350; POTASSIUM CHLORIDE; SODIUM BICARBONATE; SODIUM CHLORIDE,https://go.drugbank.com/drugs/DB09287
+1439,POLYETHYLENE GLYCOL 3350; POTASSIUM CHLORIDE; SODIUM BICARBONATE; SODIUM CHLORIDE; SODIUM SULFATE,https://go.drugbank.com/drugs/DB01390
+1440,POLYETHYLENE GLYCOL 3350; POTASSIUM CHLORIDE; SODIUM BICARBONATE; SODIUM CHLORIDE; SODIUM SULFATE ANHYDROUS,https://go.drugbank.com/drugs/DB00761
+1441,POLYMYXIN B SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00816&search_type=drugs&button=
+1444,POLYTHIAZIDE; RESERPINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00472&search_type=drugs&button=
+1445,POMALIDOMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=POMALIDOMIDE&search_type=drugs&button=
+1446,PONATINIB HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ponatinib+hydrochloride&search_type=drugs&button=
+1447,PONESIMOD,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PONESIMOD&search_type=drugs&button=
+1449,POSACONAZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=posaconazole&search_type=drugs&button=
+1451,POTASSIUM CHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=POTASSIUM+CHLORIDE&search_type=drugs&button=
+1453,POTASSIUM CITRATE,https://go.drugbank.com/drugs/DB09125
+1459,PRALSETINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PRALSETINIB&search_type=drugs&button=
+1461,PRAMLINTIDE ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=pramlintide+acetate&search_type=drugs&button=
+1466,PRAZOSIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00020&search_type=drugs&button=
+1467,PREDNICARBATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01197&search_type=drugs&button=
+1468,PREDNISOLONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00197&search_type=drugs&button=
+1474,PREGABALIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01198&search_type=drugs&button=
+1475,PRETOMANID,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Pretomanid&search_type=drugs&button=
+1476,PRILOCAINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00180&search_type=drugs&button=
+1480,PROCAINAMIDE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00509&search_type=drugs&button=
+1482,PROCARBAZINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PROCARBAZINE+HYDROCHLORIDE&search_type=drugs&button=
+1484,PROCHLORPERAZINE EDISYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00624&search_type=drugs&button=
+1485,PROCHLORPERAZINE MALEATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00624&search_type=drugs&button=
+1486,PROGESTERONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00700&search_type=drugs&button=
+1488,PROPAFENONE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00261&search_type=drugs&button=
+1489,PROPANTHELINE BROMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PROPANTHELINE+BROMIDE&search_type=drugs&button=
+1492,PROPOFOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01201&search_type=drugs&button=
+1493,PROPOXYPHENE HYDROCHLORIDE, https://go.drugbank.com/drugs/DB00647
+1495,PROPRANOLOL HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00194&search_type=drugs&button=
+1498,PROTEIN HYDROLYSATE,https://go.drugbank.com/drugs/DB09356
+1501,PRUCALOPRIDE SUCCINATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=PRUCALOPRIDE+SUCCINATE&search_type=drugs&button=
+1502,PSEUDOEPHEDRINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00852
+1515,QUINIDINE SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00136&search_type=drugs&button=
+1516,QUININE SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00563&search_type=drugs&button=
+1518,RADIUM RA-223 DICHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=RADIUM+RA-223+DICHLORIDE&search_type=drugs&button=
+1522,RAMIPRIL,https://go.drugbank.com/drugs/DB00178
+1523,RANITIDINE HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00863
+1524,RANOLAZINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01300&search_type=drugs&button=
+1527,REGORAFENIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=REGORAFENIB+MONOHYDRATE&search_type=drugs&button=
+1531,REMIMAZOLAM BESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=remimazolam+besylate&search_type=drugs&button=
+1533,RESERPINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00472&search_type=drugs&button=
+1535,REVEFENACIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=REVEFENACIN&search_type=drugs&button=
+1536,RIBAVIRIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00081&search_type=drugs&button=
+1539,RIFABUTIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00094&search_type=drugs&button=
+1540,RIFAMPIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00207&search_type=drugs&button=
+1544,RILUZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00145&search_type=drugs&button=
+1546,RIMEGEPANT SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=RIMEGEPANT+SULFATE&search_type=drugs&button=
+1547,RIOCIGUAT,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=RIOCIGUAT&search_type=drugs&button=
+1548,RIPRETINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Ripretinib&search_type=drugs&button=
+1549,RISDIPLAM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=RISDIPLAM&search_type=drugs&button=
+1551,RISPERIDONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00187&search_type=drugs&button=
+1552,RITONAVIR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00312&search_type=drugs&button=
+1553,RIVAROXABAN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=RIVAROXABAN&search_type=drugs&button=
+1554,RIVASTIGMINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00321&search_type=drugs&button=
+1555,RIVASTIGMINE TARTRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00321&search_type=drugs&button=
+1558,ROFLUMILAST,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ROFLUMILAST&search_type=drugs&button=
+1559,ROLAPITANT HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ROLAPITANT+HYDROCHLORIDE&search_type=drugs&button=
+1564,ROSUVASTATIN CALCIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00546&search_type=drugs&button=
+1565,ROTIGOTINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=rotigotine&search_type=drugs&button=
+1566,RUBIDIUM CHLORIDE RB-82,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=RUBIDIUM+CHLORIDE+RB-82&search_type=drugs&button=
+1567,RUCAPARIB CAMSYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=rucaparib+camsylate&search_type=drugs&button=
+1569,RUXOLITINIB PHOSPHATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=RUXOLITINIB+PHOSPHATE&search_type=drugs&button=
+1570,SACUBITRIL; VALSARTAN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00133&search_type=drugs&button=
+1571,SAFINAMIDE MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=SAFINAMIDE+MESYLATE&search_type=drugs&button=
+1574,SAQUINAVIR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00623&search_type=drugs&button=
+1575,SAQUINAVIR MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00623&search_type=drugs&button=
+1576,SARECYCLINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=SARECYCLINE+HYDROCHLORIDE&search_type=drugs&button=
+1579,SECNIDAZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=SECNIDAZOLE&search_type=drugs&button=
+1580,SECOBARBITAL SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00497&search_type=drugs&button=
+1582,SELEGILINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00525&search_type=drugs&button=
+1583,SELEGILINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00525&search_type=drugs&button=
+1586,SELEXIPAG,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=SELEXIPAG&search_type=drugs&button=
+1587,SELINEXOR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=selinexor&search_type=drugs&button=
+1588,SELPERCATINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=selpercatinib&search_type=drugs&button=
+1590,SERTACONAZOLE NITRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00305&search_type=drugs&button=
+1591,SERTRALINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00175&search_type=drugs&button=
+1592,SEVELAMER CARBONATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01226&search_type=drugs&button=
+1593,SEVELAMER HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01226&search_type=drugs&button=
+1595,SILDENAFIL CITRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=SILDENAFIL+CITRATE&search_type=drugs&button=
+1596,SILODOSIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=SILODOSIN&search_type=drugs&button=
+1597,SILVER SULFADIAZINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00190&search_type=drugs&button=
+1600,SINECATECHINS,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=SINECATECHINS&search_type=drugs&button=
+1601,SIROLIMUS,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00178&search_type=drugs&button=
+1610,SODIUM IODIDE I-123,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=SODIUM+IODIDE+I-123&search_type=drugs&button=
+1611,SODIUM IODIDE I-131,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=SODIUM+IODIDE+I-131&search_type=drugs&button=
+1613,SODIUM MONOFLUOROPHOSPHATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Sodium+Monofluorophosphate&search_type=drugs&button=
+1615,SODIUM NITRITE; SODIUM THIOSULFATE,https://go.drugbank.com/drugs/DB06147
+1624,SODIUM ZIRCONIUM CYCLOSILICATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=SODIUM+ZIRCONIUM+CYCLOSILICATE&search_type=drugs&button=
+1627,SOFOSBUVIR; VELPATASVIR; VOXILAPREVIR,https://go.drugbank.com/drugs/DB08934
+1629,SONIDEGIB PHOSPHATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=SONIDEGIB+PHOSPHATE&search_type=drugs&button=
+1633,SOTORASIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=SOTORASIB&search_type=drugs&button=
+1636,STAVUDINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00440&search_type=drugs&button=
+1638,STIRIPENTOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Stiripentol&search_type=drugs&button=
+1640,STREPTOZOCIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00209&search_type=drugs&button=
+1641,STRONTIUM CHLORIDE SR-89,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=STRONTIUM+CHLORIDE+SR-89&search_type=drugs&button=
+1642,SUCCIMER,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01236&search_type=drugs&button=
+1643,SUCCINYLCHOLINE CHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00159&search_type=drugs&button=
+1647,SULCONAZOLE NITRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Sulconazole+Nitrate&search_type=drugs&button=
+1651,SULFAMETHIZOLE,https://go.drugbank.com/drugs/DB00576
+1653,SULFAMETHOXAZOLE; TRIMETHOPRIM,https://go.drugbank.com/drugs/DB01015
+1656,SULFISOXAZOLE ACETYL,https://go.drugbank.com/drugs/DB00263
+1661,SUNITINIB MALATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=SUNITINIB+MALATE&search_type=drugs&button=
+1662,SUPROFEN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00230&search_type=drugs&button=
+1663,SUVOREXANT,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=suvorexant&search_type=drugs&button=
+1666,TAFAMIDIS,https://go.drugbank.com/drugs/DB11644
+1667,TAFAMIDIS MEGLUMINE,https://go.drugbank.com/drugs/DB11644
+1668,TAFENOQUINE SUCCINATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TAFENOQUINE+SUCCINATE&search_type=drugs&button=
+1670,TALAZOPARIB TOSYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TALAZOPARIB+TOSYLATE&search_type=drugs&button=
+1673,TAMSULOSIN HYDROCHLORIDE,https://go.drugbank.com/drugs/DB00706
+1675,TAPINAROF,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TAPINAROF&search_type=drugs&button=
+1676,TASIMELTEON,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TASIMELTEON&search_type=drugs&button=
+1679,TAZEMETOSTAT HYDROBROMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=tazemetostat+hydrobromide&search_type=drugs&button=
+1680,TECHNETIUM TC-99M MEDRONATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TECHNETIUM+TC-99M+MEDRONATE&search_type=drugs&button=
+1683,TECHNETIUM TC-99M TILMANOCEPT,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TECHNETIUM+TC-99M+TILMANOCEPT&search_type=drugs&button=
+1684,TECOVIRIMAT,https://go.drugbank.com/drugs/DB12020
+1686,TEGASEROD MALEATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TEGASEROD+MALEATE&search_type=drugs&button=
+1688,TELITHROMYCIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00483&search_type=drugs&button=
+1690,TEMAZEPAM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00676&search_type=drugs&button=
+1691,TEMOZOLOMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00557&search_type=drugs&button=
+1693,TENAPANOR HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TENAPANOR+HYDROCHLORIDE&search_type=drugs&button=
+1695,TEPOTINIB HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Tepotinib+Hydrochloride&search_type=drugs&button=
+1696,TERAZOSIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00667&search_type=drugs&button=
+1697,TERBINAFINE,https://go.drugbank.com/drugs/DB00857
+1698,TERBINAFINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00508&search_type=drugs&button=
+1700,TERCONAZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00659&search_type=drugs&button=
+1703,TERIPARATIDE ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TERIPARATIDE+ACETATE&search_type=drugs&button=
+1704,TESTOSTERONE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00433&search_type=drugs&button=
+1705,TESTOSTERONE CYPIONATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00433&search_type=drugs&button=
+1706,TESTOSTERONE ENANTHATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00433&search_type=drugs&button=
+1707,TESTOSTERONE UNDECANOATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00433&search_type=drugs&button=
+1710,TETRACYCLINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00572&search_type=drugs&button=
+1712,THALIDOMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01251&search_type=drugs&button=
+1716,THIAMINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=THIAMINE+HYDROCHLORIDE&search_type=drugs&button=
+1719,THIORIDAZINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00596&search_type=drugs&button=
+1721,THIOTHIXENE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=THIOTHIXENE&search_type=drugs&button=
+1725,TICLOPIDINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01257&search_type=drugs&button=
+1730,TINZAPARIN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=tinzaparin+sodium&search_type=drugs&button=
+1731,TIOCONAZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01262&search_type=drugs&button=
+1734,TIPRANAVIR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01306&search_type=drugs&button=
+1735,TIRBANIBULIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TIRBANIBULIN&search_type=drugs&button=
+1736,TIROFIBAN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00304&search_type=drugs&button=
+1737,TIRZEPATIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=tirzepatide&search_type=drugs&button=
+1738,TIVOZANIB HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=tivozanib+hydrochloride&search_type=drugs&button=
+1739,TIZANIDINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00128&search_type=drugs&button=
+1746,TOLMETIN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01268&search_type=drugs&button=
+1747,TOLTERODINE TARTRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00146&search_type=drugs&button=
+1749,TOPIRAMATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00237&search_type=drugs&button=
+1750,TOPOTECAN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00687&search_type=drugs&button=
+1752,TORSEMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00295&search_type=drugs&button=
+1753,TRABECTEDIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Trabectedin&search_type=drugs&button=
+1754,TRAMADOL HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00028&search_type=drugs&button=
+1758,TRANEXAMIC ACID,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01270&search_type=drugs&button=
+1763,TRETINOIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00362&search_type=drugs&button=
+1765,TRIAMCINOLONE HEXACETONIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TRIAMCINOLONE+HEXACETONIDE&search_type=drugs&button=
+1766,TRIAMTERENE,https://go.drugbank.com/drugs/DB00384
+1770,TRIENTINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TRIENTINE+HYDROCHLORIDE&search_type=drugs&button=
+1771,TRIENTINE TETRAHYDROCHLORIDE,https://go.drugbank.com/drugs/DB06824
+1772,TRIFAROTENE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Trifarotene&search_type=drugs&button=
+1773,TRIFLUOPERAZINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00173&search_type=drugs&button=
+1775,TRIHEPTANOIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TRIHEPTANOIN&search_type=drugs&button=
+1777,TRILACICLIB DIHYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=trilaciclib+dihydrochloride&search_type=drugs&button=
+1778,TRILOSTANE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01276&search_type=drugs&button=
+1779,TRIMEPRAZINE TARTRATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TRIMEPRAZINE+TARTRATE&search_type=drugs&button=
+1780,TRIMETHOBENZAMIDE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01277&search_type=drugs&button=
+1781,TRIMETHOPRIM HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00103&search_type=drugs&button=
+1782,TRIMETREXATE GLUCURONATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00268&search_type=drugs&button=
+1783,TRIMIPRAMINE MALEATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00498&search_type=drugs&button=
+1786,TRIPTORELIN PAMOATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=TRIPTORELIN+PAMOATE&search_type=drugs&button=
+1789,TROSPIUM CHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00393&search_type=drugs&button=
+1790,TROVAFLOXACIN MESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01281&search_type=drugs&button=
+1793,TUCATINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Tucatinib&search_type=drugs&button=
+1794,UBROGEPANT,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=UBROGEPANT&search_type=drugs&button=
+1796,UMBRALISIB TOSYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=umbralisib+tosylate&search_type=drugs&button=
+1799,UPADACITINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=upadacitinib&search_type=drugs&button=
+1801,UREA C-13,https://go.drugbank.com/drugs/DB09510
+1802,"UREA, C-14",https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Urea+C-14&search_type=drugs&button=
+1803,URIDINE TRIACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=uridine+triacetate&search_type=drugs&button=
+1804,URSODIOL,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=URSODIOL&search_type=drugs&button=
+1805,VALBENAZINE TOSYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=VALBENAZINE+TOSYLATE&search_type=drugs&button=
+1806,VALGANCICLOVIR HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00263&search_type=drugs&button=
+1807,VALPROATE SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00256&search_type=drugs&button=
+1809,VALSARTAN,https://go.drugbank.com/drugs/DB00177
+1811,VANCOMYCIN HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD01287&search_type=drugs&button=
+1817,VEMURAFENIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=VEMURAFENIB&search_type=drugs&button=
+1818,VENETOCLAX,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Venetoclax&search_type=drugs&button=
+1819,VENLAFAXINE BESYLATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00125&search_type=drugs&button=
+1820,VENLAFAXINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00125&search_type=drugs&button=
+1821,VERAPAMIL HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00335&search_type=drugs&button=
+1823,VERICIGUAT,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=VERICIGUAT&search_type=drugs&button=
+1825,VIBEGRON,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=vibegron&search_type=drugs&button=
+1826,VIDARABINE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00333&search_type=drugs&button=
+1827,VIGABATRIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00282&search_type=drugs&button=
+1829,VILOXAZINE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=VILOXAZINE+HYDROCHLORIDE&search_type=drugs&button=
+1830,VILTOLARSEN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=viltolarsen&search_type=drugs&button=
+1831,VINBLASTINE SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00708&search_type=drugs&button=
+1832,VINCRISTINE SULFATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00495&search_type=drugs&button=
+1834,VISMODEGIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=VISMODEGIB&search_type=drugs&button=
+1835,VITAMIN A,https://go.drugbank.com/drugs/DB00162
+1836,VITAMIN A PALMITATE,https://go.drugbank.com/drugs/DB00162
+1837,VOCLOSPORIN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=VOCLOSPORIN&search_type=drugs&button=
+1839,VORICONAZOLE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00543&search_type=drugs&button=
+1840,VORINOSTAT,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=VORINOSTAT&search_type=drugs&button=
+1842,VOSORITIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=VOSORITIDE&search_type=drugs&button=
+1843,VOXELOTOR,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=Voxelotor&search_type=drugs&button=
+1844,VUTRISIRAN,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=VUTRISIRAN&search_type=drugs&button=
+1845,WARFARIN SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00341&search_type=drugs&button=
+1846,XENON XE-133,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=XENON+XE-133&search_type=drugs&button=
+1848,ZALEPLON,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00411&search_type=drugs&button=
+1850,ZANUBRUTINIB,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ZANUBRUTINIB&search_type=drugs&button=
+1851,ZICONOTIDE ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ziconotide+acetate&search_type=drugs&button=
+1852,ZIDOVUDINE,https://go.drugbank.com/drugs/DB00495
+1854,ZINC ACETATE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00710&search_type=drugs&button=
+1857,ZIPRASIDONE HYDROCHLORIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00540&search_type=drugs&button=
+1862,ZONISAMIDE,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=APRD00004&search_type=drugs&button=
+1863,CEFTIZOXIME SODIUM,https://www.drugbank.ca/search?utf8=%E2%9C%93&query=ceftizoxime+sodium&search_type=drugs&button=
