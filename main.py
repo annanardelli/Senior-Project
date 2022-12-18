@@ -1,34 +1,55 @@
+from tkinter import *
+import tkinter as tk
+from tkinter import ttk
+import csv
 import pandas as pd
+import mysql.connector
+# from sqlalchemy import create_engine
 
-file_name = "products.txt"
+mydb = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    passwd="Gonzalez#1222",
+    db="pharm_db")
+cursor = mydb.cursor()
 
-tilde = "~".encode()
-comma_space = ", ".encode()
-semicolon = ";".encode()
-double_tilde = "~~".encode()
-none = ", None, ".encode()
-metered_inhalation = "metered;inhalation".encode()
-metered_space = "metered inhalation".encode()
-inh_semicolon = "INH;EQ".encode()
-inh_slash = "INH/EQ".encode()
-inh_zero = "INH;0".encode()
-inh_dash_zero = "INH-0".encode()
-discn = "DISCN~".encode()
-
-with open(file_name, "rb") as file:
-    data = file.read()
-    data = data.replace(inh_semicolon, inh_slash)
-    data = data.replace(inh_zero, inh_dash_zero)
-    data = data.replace(discn, "".encode())
-    data = data.replace(metered_inhalation, metered_space)
-    data = data.replace(double_tilde, none)
-    data = data.replace(tilde, comma_space)
-    data = data.replace(semicolon, comma_space)
+app = tk.Tk()
+app.title('Test')
+app.geometry('800x500')
+app.resizable(0, 0)
+font1 = ['Times', 14, 'normal']
+textbox = tk.Text(app, height=2, width=60, bg="light grey", font=font1)
+textbox.grid(row=0, column=0, padx=5, pady=10)
+button1 = tk.Button(app, text='Search', font=18,
+                    command=lambda: my_query(textbox.get('1.0', 'end')))
+button1.grid(row=0, column=1)
 
 
-edited_file = "products_edited.txt"
-with open(edited_file, "wb") as file:
-    file.write(data)
+def my_query(query):
+    for w in app.grid_slaves(1):
+        w.grid_forget()
+    try:
+        cursor.execute(query)
+        rows = cursor.fetchall()
+        numberofFields = len(cursor.description)
+        fieldNames = [i[0] for i in cursor.description]
 
-read_file = pd.read_csv(edited_file)
-read_file.to_csv("products.csv", index=None)
+    except:
+        print("Error")
+    else:  # No errors will display a TreeView
+        trv = ttk.Treeview(app, selectmode='browse',
+                           columns=fieldNames, show='headings', height=10)
+
+        trv.place(relx=0.01, rely=0.128, width=640, height=410)
+
+        for i in fieldNames:  # Listof columns collects from Database
+            trv.column(i, width=200, stretch=True)
+            trv.heading(i, text=i, anchor=W)
+
+        row = 0
+        for data in rows:  # adding records
+            trv.insert('', 'end', iid=row, text=data[0], values=list(data))
+            row += 1
+
+
+app.mainloop()
